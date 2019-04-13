@@ -1,3 +1,67 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">BioQuizz</string>
+    <string name="check_answers_button">Verificar respostas</string>
+
+    <!--
+    Strings da primeira questão
+    -->
+    <string name="question_one">São vírus que atacam bactérias:</string>
+    <string name="question_one_opt1">Vírus da Gripe</string>
+    <string name="question_one_opt2">Bacteriófago</string>
+    <string name="question_one_opt3">HIV</string>
+    <string name="question_one_opt4">HPV</string>
+    <string name="question_one_opt5">Herpes</string>
+
+    <!--
+    Strings da segunda questão
+    -->
+    <string name="question_two">Seres vivos que possuem células procariontes:</string>
+    <string name="question_two_opt1">Fungos</string>
+    <string name="question_two_opt2">Leveduras</string>
+    <string name="question_two_opt3">Protozoários</string>
+    <string name="question_two_opt4">Arqueas</string>
+    <string name="question_two_opt5">Alga unicelulares</string>
+
+    <!--
+    Strings da terceira questão
+    -->
+    <string name="question_three">Tipo de plantas vasculares que não produzem frutos:</string>
+    <string name="question_three_tip">Digite uma palavra.</string>
+    <string name="question_three_correct_answer">Gimnospermas</string>
+
+    <!--
+    Strings da quarta questão
+    -->
+    <string name="question_four">Organela celular responsável pela fotossíntese:</string>
+    <string name="question_four_tip">Digite uma palavra.</string>
+    <string name="question_four_correct_answer">Cloroplasto</string>
+
+    <!--
+    Strings da quinta questão
+    -->
+    <string name="question_five">As plantas são seres vivos pluricelulares e organizados que apresentam diferentes tecidos. Com relação aos tecidos vegetais, assinale a(s) proposição(ões) CORRETA(S).</string>
+    <string name="question_five_opt1">Em plantas vasculares, o tecido condutor especializado na condução da seiva bruta é o floema e, na condução da seiva elaborada, é o xilema.</string>
+    <string name="question_five_opt2">Os tecidos meristemáticos são formados por células diferenciadas que, por desdiferenciação destas células, originam todos os demais tecidos da planta.</string>
+    <string name="question_five_opt3">O colênquima e o esclerênquima constituem os tecidos de sustentação do vegetal. </string>
+    <string name="question_five_opt4">Os tecidos parenquimáticos executam numerosas tarefas, tais como o preenchimento de espaços, a realização da fotossíntese e o armazenamento de substâncias.</string>
+    <string name="question_five_opt5">As cactáceas apresentam parênquima aerífero bem desenvolvido. Já as plantas aquáticas, como, por exemplo, o aguapé, apresentam o parênquima aqüífero bem desenvolvido.</string>
+
+    <!--
+    Strings da sexta questão
+    -->
+    <string name="question_six">Os itens a seguir se referem ao reino Plantae, que, nas classificações mais modernas, exclui as algas. Assinale a(s) proposição(ões) CORRETA(S)</string>
+    <string name="question_six_opt1">Todos os organismos que apresentam embriões multicelulares maciços (sem cavidades internas), que se desenvolvem à custa do organismo materno, pertencem ao reino Plantae.</string>
+    <string name="question_six_opt2">Uma característica que torna as briófitas dependentes da água em estado líquido para areprodução é a presença de anterozóides flagelados.</string>
+    <string name="question_six_opt3">Na estrutura reprodutiva das angiospermas, o saco embrionário corresponde, embriologicamente, ao óvulo dos mamíferos.</string>
+    <string name="question_six_opt4">Parênquimas são tecidos vegetais formados por células vivas cujas principais funções na planta são preenchimento, sustentação e assimilação. </string>
+    <string name="question_six_opt5">A difusão através do poro estomático é o processo responsável pela absorção de CO2 e pela perda de vapor d’água que ocorre nas folhas.</string>
+    <string name="question_six_opt6">Uma alta concentração de ácido abscísico na folha causa a síntese de etileno, o que leva à formação da camada de abscisão e à queda dessa folha.</string>
+
+    <!--
+        Mensagens
+    -->
+    <string name="toast_msg_one_question">Você acertou: <xliff:g id="corrects_answers">%d</xliff:g> questão!</string>
+    <string name="toast_msg_multiple_question">Você acertou: <xliff:g id="corrects_answers">%d</xliff:g> questões!</string>
+
+
 </resources>
